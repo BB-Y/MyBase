@@ -1,0 +1,22 @@
+{
+  "name": "MyBase",
+  "version": "0.1.0",
+  "summary": "test",
+  "description": "test pod.",
+  "homepage": "https://github.com/BB-Y/MyBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huang": "356071707@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/BB-Y/MyBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyBase/Classes/**/*"
+}
